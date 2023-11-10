@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Leonardo</h1>
-<h3 align="center">A programming estudent at the National Technological from Argentina</h3>
+<h3 align="center">A programming student at the National Technological from Argentina</h3>
 
 - 🌱 I’m currently learning **Java, Python, HTML, CSS, JavaScritp and NodeJs**
 
