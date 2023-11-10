@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Leonardo</h1>
 <h3 align="center">A programming student at the National Technological from Argentina</h3>
 
-- 🌱 I’m currently learning **Java, Python, HTML, CSS, JavaScritp and NodeJs**
+- 🌱 I’m currently learning **Java, Python, HTML, CSS, JavaScript and NodeJs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/leonardofer097](https://github.com/leonardofer097)
 
